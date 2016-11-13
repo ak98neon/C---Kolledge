@@ -1,0 +1,18 @@
+C:\Users\narut\Documents\Visual Studio 2015\Projects\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.exe.config
+C:\Users\narut\documents\visual studio 2015\Projects\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.exe
+C:\Users\narut\documents\visual studio 2015\Projects\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.pdb
+C:\Users\narut\documents\visual studio 2015\Projects\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.csprojResolveAssemblyReference.cache
+C:\Users\narut\documents\visual studio 2015\Projects\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.exe
+C:\Users\narut\documents\visual studio 2015\Projects\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.pdb
+C:\Users\neon\Desktop\С#\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.exe.config
+C:\Users\neon\Desktop\С#\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.exe
+C:\Users\neon\Desktop\С#\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.pdb
+C:\Users\neon\Desktop\С#\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.exe
+C:\Users\neon\Desktop\С#\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.pdb
+C:\Users\neon\Desktop\С#\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.csprojResolveAssemblyReference.cache
+C:\Users\narut\Desktop\C#\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.exe.config
+C:\Users\narut\Desktop\C#\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.exe
+C:\Users\narut\Desktop\C#\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.pdb
+C:\Users\narut\Desktop\C#\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.exe
+C:\Users\narut\Desktop\C#\Zadanie_1\Zadanie_1\bin\Debug\Zadanie_1.pdb
+C:\Users\narut\Desktop\C#\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.csprojResolveAssemblyReference.cache
